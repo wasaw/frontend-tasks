@@ -40,11 +40,16 @@ ul {
     margin: 0 0 30px;
 }
 li {
-    background: #e8720e;
+    background: #220036;
     padding: 5px 10px;
     border-radius: 15px;
     color: #fff;
-    font-weight: bold;
+    cursor: pointer;
+    font-size: 18px;
+}
+li.active,
+li:hover {
+    background: #540085;
 }
 form {
     width: 500px;

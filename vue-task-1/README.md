@@ -1,14 +1,7 @@
 # vue-task-1
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Задача: вывести в виде "чипсов" пациента и связанных с ним пациентов.
+При клике на каждого должна заполняться форма с данными
 
 ## Project Setup
 
@@ -27,3 +20,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Ссылка на тестовые данные
+
+https://flamingo.spb.ru/patient.json
