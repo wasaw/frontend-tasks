@@ -23,4 +23,4 @@ npm run build
 
 ### Ссылка на тестовые данные
 
-https://flamingo.spb.ru/patient.json
+https://flamingo.spb.ru/api/patient
